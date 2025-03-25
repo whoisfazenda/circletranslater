@@ -36,7 +36,7 @@ except Exception as e:
     exit(1)
 
 # Токен Telegram бота
-bot = telebot.TeleBot("8041048168:AAE6Mi8o0bZppdsvGnQypykF0zXLtzduoJs")
+bot = telebot.TeleBot("")
 
 # Инициализация клиента Google Translate (googletrans)
 translator = Translator()
